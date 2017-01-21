@@ -38,11 +38,16 @@
     <Folder Include="Rendezvous\" />
     <Folder Include="Rendezvous\static\" />
     <Folder Include="Rendezvous\static\content\" />
+    <Folder Include="Rendezvous\static\content\img\" />
     <Folder Include="Rendezvous\static\fonts\" />
     <Folder Include="Rendezvous\static\scripts\" />
     <Folder Include="Rendezvous\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Rendezvous\static\content\img\15293403_1625942354097868_567547012_o.jpg" />
+    <Content Include="Rendezvous\static\content\img\IMG_0766.jpg" />
+    <Content Include="Rendezvous\static\content\img\IMG_0767.jpg" />
+    <Content Include="Rendezvous\static\content\img\IMG_0768.jpg" />
     <Content Include="requirements.txt" />
     <Content Include="Rendezvous\static\content\bootstrap.css" />
     <Content Include="Rendezvous\static\content\bootstrap.min.css" />

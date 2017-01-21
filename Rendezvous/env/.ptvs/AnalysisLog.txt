@@ -1,0 +1,908 @@
+﻿
+2017-01-21T03:52:03: Start analysis
+2017-01-21T03:52:03: [WARNING] Library was set explicitly - skipping path detection
+2017-01-21T03:52:03: IncludeModulesFromModulePath = win32com
+2017-01-21T03:52:03: Deleting 0 files
+2017-01-21T03:52:03: Scraping builtin modules
+2017-01-21T03:52:03: Command: "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-01-21T03:52:05: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-01-21T03:52:05: Scraped builtin modules
+2017-01-21T03:52:05: Scraping markupsafe._speedups
+2017-01-21T03:52:05: Command: "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages" "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-01-21T03:52:05: Scraped 1 files
+2017-01-21T03:52:05: astropy.CallDepth = 0
+2017-01-21T03:52:05: matplotlib.CallDepth = 3
+2017-01-21T03:52:05: pandas.CallDepth = 0
+2017-01-21T03:52:05: sympy.CallDepth = 0
+2017-01-21T03:52:05: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages" with 2 files
+2017-01-21T03:52:05: Parsing "easy_install" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\easy_install.py")
+2017-01-21T03:52:05: Parsing "itsdangerous" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\itsdangerous.py")
+2017-01-21T03:52:05: Parsing complete
+2017-01-21T03:52:05: Analyzing "easy_install"
+2017-01-21T03:52:05: Analyzing "itsdangerous"
+2017-01-21T03:52:05: Starting analysis of 2 modules
+2017-01-21T03:52:07: Analysis complete
+2017-01-21T03:52:07: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages"
+2017-01-21T03:52:07: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages"
+2017-01-21T03:52:07: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click" with 17 files
+2017-01-21T03:52:07: Parsing "click.core" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\core.py")
+2017-01-21T03:52:07: Parsing "click.decorators" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\decorators.py")
+2017-01-21T03:52:07: Parsing "click.exceptions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\exceptions.py")
+2017-01-21T03:52:07: Parsing "click.formatting" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\formatting.py")
+2017-01-21T03:52:07: Parsing "click.globals" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\globals.py")
+2017-01-21T03:52:07: Parsing "click.parser" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\parser.py")
+2017-01-21T03:52:07: Parsing "click.termui" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\termui.py")
+2017-01-21T03:52:07: Parsing "click.testing" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\testing.py")
+2017-01-21T03:52:07: Parsing "click.types" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\types.py")
+2017-01-21T03:52:07: Parsing "click.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\utils.py")
+2017-01-21T03:52:07: Parsing "click._bashcomplete" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\_bashcomplete.py")
+2017-01-21T03:52:07: Parsing "click._compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\_compat.py")
+2017-01-21T03:52:07: Parsing "click._termui_impl" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\_termui_impl.py")
+2017-01-21T03:52:07: Parsing "click._textwrap" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\_textwrap.py")
+2017-01-21T03:52:07: Parsing "click._unicodefun" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\_unicodefun.py")
+2017-01-21T03:52:07: Parsing "click._winconsole" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\_winconsole.py")
+2017-01-21T03:52:07: Parsing "click" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click\__init__.py")
+2017-01-21T03:52:07: Parsing complete
+2017-01-21T03:52:07: Analyzing "click.core"
+2017-01-21T03:52:07: Analyzing "click.decorators"
+2017-01-21T03:52:07: Analyzing "click.exceptions"
+2017-01-21T03:52:07: Analyzing "click.formatting"
+2017-01-21T03:52:07: Analyzing "click.globals"
+2017-01-21T03:52:07: Analyzing "click.parser"
+2017-01-21T03:52:07: Analyzing "click.termui"
+2017-01-21T03:52:07: Analyzing "click.testing"
+2017-01-21T03:52:07: Analyzing "click.types"
+2017-01-21T03:52:07: Analyzing "click.utils"
+2017-01-21T03:52:07: Analyzing "click._bashcomplete"
+2017-01-21T03:52:07: Analyzing "click._compat"
+2017-01-21T03:52:07: Analyzing "click._termui_impl"
+2017-01-21T03:52:07: Analyzing "click._textwrap"
+2017-01-21T03:52:07: Analyzing "click._unicodefun"
+2017-01-21T03:52:07: Analyzing "click._winconsole"
+2017-01-21T03:52:07: Analyzing "click"
+2017-01-21T03:52:07: Starting analysis of 17 modules
+2017-01-21T03:52:09: Analysis complete
+2017-01-21T03:52:09: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click"
+2017-01-21T03:52:09: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\click"
+2017-01-21T03:52:09: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask" with 21 files
+2017-01-21T03:52:10: Parsing "flask.app" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\app.py")
+2017-01-21T03:52:10: Parsing "flask.blueprints" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\blueprints.py")
+2017-01-21T03:52:10: Parsing "flask.cli" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\cli.py")
+2017-01-21T03:52:10: Parsing "flask.config" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\config.py")
+2017-01-21T03:52:10: Parsing "flask.ctx" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\ctx.py")
+2017-01-21T03:52:10: Parsing "flask.debughelpers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\debughelpers.py")
+2017-01-21T03:52:10: Parsing "flask.exthook" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\exthook.py")
+2017-01-21T03:52:10: Parsing "flask.globals" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\globals.py")
+2017-01-21T03:52:10: Parsing "flask.helpers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\helpers.py")
+2017-01-21T03:52:10: Parsing "flask.json" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\json.py")
+2017-01-21T03:52:10: Parsing "flask.logging" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\logging.py")
+2017-01-21T03:52:10: Parsing "flask.sessions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\sessions.py")
+2017-01-21T03:52:10: Parsing "flask.signals" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\signals.py")
+2017-01-21T03:52:10: Parsing "flask.templating" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\templating.py")
+2017-01-21T03:52:10: Parsing "flask.testing" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\testing.py")
+2017-01-21T03:52:10: Parsing "flask.views" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\views.py")
+2017-01-21T03:52:10: Parsing "flask.wrappers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\wrappers.py")
+2017-01-21T03:52:10: Parsing "flask._compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\_compat.py")
+2017-01-21T03:52:10: Parsing "flask" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\__init__.py")
+2017-01-21T03:52:10: Parsing "flask.__main__" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\__main__.py")
+2017-01-21T03:52:10: Parsing "flask.ext" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask\ext\__init__.py")
+2017-01-21T03:52:10: Parsing complete
+2017-01-21T03:52:10: Analyzing "flask.app"
+2017-01-21T03:52:10: Analyzing "flask.blueprints"
+2017-01-21T03:52:10: Analyzing "flask.cli"
+2017-01-21T03:52:10: Analyzing "flask.config"
+2017-01-21T03:52:10: Analyzing "flask.ctx"
+2017-01-21T03:52:10: Analyzing "flask.debughelpers"
+2017-01-21T03:52:10: Analyzing "flask.exthook"
+2017-01-21T03:52:10: Analyzing "flask.globals"
+2017-01-21T03:52:10: Analyzing "flask.helpers"
+2017-01-21T03:52:10: Analyzing "flask.json"
+2017-01-21T03:52:10: Analyzing "flask.logging"
+2017-01-21T03:52:10: Analyzing "flask.sessions"
+2017-01-21T03:52:10: Analyzing "flask.signals"
+2017-01-21T03:52:10: Analyzing "flask.templating"
+2017-01-21T03:52:10: Analyzing "flask.testing"
+2017-01-21T03:52:10: Analyzing "flask.views"
+2017-01-21T03:52:10: Analyzing "flask.wrappers"
+2017-01-21T03:52:10: Analyzing "flask._compat"
+2017-01-21T03:52:10: Analyzing "flask"
+2017-01-21T03:52:10: Analyzing "flask.__main__"
+2017-01-21T03:52:10: Analyzing "flask.ext"
+2017-01-21T03:52:10: Starting analysis of 21 modules
+2017-01-21T03:52:11: Analysis complete
+2017-01-21T03:52:11: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask"
+2017-01-21T03:52:11: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\flask"
+2017-01-21T03:52:11: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2" with 26 files
+2017-01-21T03:52:11: Parsing "jinja2.asyncfilters" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\asyncfilters.py")
+2017-01-21T03:52:12: [WARNING] File "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\asyncfilters.py" contained parse errors
+2017-01-21T03:52:12: (24,17) - (24,22) 'yield' inside async function
+(112,13) - (112,18) 'yield' inside async function
+2017-01-21T03:52:12: Parsing "jinja2.asyncsupport" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\asyncsupport.py")
+2017-01-21T03:52:12: [WARNING] File "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\asyncsupport.py" contained parse errors
+2017-01-21T03:52:12: (35,13) - (35,18) 'yield' inside async function
+(40,5) - (40,10) 'yield' inside async function
+(167,13) - (167,18) 'yield' inside async function
+(170,9) - (170,14) 'yield' inside async function
+2017-01-21T03:52:12: Parsing "jinja2.bccache" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\bccache.py")
+2017-01-21T03:52:12: Parsing "jinja2.compiler" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\compiler.py")
+2017-01-21T03:52:12: Parsing "jinja2.constants" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\constants.py")
+2017-01-21T03:52:12: Parsing "jinja2.debug" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\debug.py")
+2017-01-21T03:52:12: Parsing "jinja2.defaults" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\defaults.py")
+2017-01-21T03:52:12: Parsing "jinja2.environment" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\environment.py")
+2017-01-21T03:52:12: Parsing "jinja2.exceptions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\exceptions.py")
+2017-01-21T03:52:12: Parsing "jinja2.ext" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\ext.py")
+2017-01-21T03:52:12: Parsing "jinja2.filters" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\filters.py")
+2017-01-21T03:52:12: Parsing "jinja2.idtracking" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\idtracking.py")
+2017-01-21T03:52:12: Parsing "jinja2.lexer" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\lexer.py")
+2017-01-21T03:52:12: Parsing "jinja2.loaders" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\loaders.py")
+2017-01-21T03:52:12: Parsing "jinja2.meta" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\meta.py")
+2017-01-21T03:52:12: Parsing "jinja2.nodes" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\nodes.py")
+2017-01-21T03:52:12: Parsing "jinja2.optimizer" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\optimizer.py")
+2017-01-21T03:52:12: Parsing "jinja2.parser" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\parser.py")
+2017-01-21T03:52:12: Parsing "jinja2.runtime" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\runtime.py")
+2017-01-21T03:52:12: Parsing "jinja2.sandbox" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\sandbox.py")
+2017-01-21T03:52:12: Parsing "jinja2.tests" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\tests.py")
+2017-01-21T03:52:12: Parsing "jinja2.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\utils.py")
+2017-01-21T03:52:12: Parsing "jinja2.visitor" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\visitor.py")
+2017-01-21T03:52:12: Parsing "jinja2._compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\_compat.py")
+2017-01-21T03:52:12: Parsing "jinja2._stringdefs" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\_stringdefs.py")
+2017-01-21T03:52:12: Parsing "jinja2" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2\__init__.py")
+2017-01-21T03:52:12: Parsing complete
+2017-01-21T03:52:12: Analyzing "jinja2.asyncfilters"
+2017-01-21T03:52:12: Analyzing "jinja2.asyncsupport"
+2017-01-21T03:52:12: Analyzing "jinja2.bccache"
+2017-01-21T03:52:12: Analyzing "jinja2.compiler"
+2017-01-21T03:52:12: Analyzing "jinja2.constants"
+2017-01-21T03:52:12: Analyzing "jinja2.debug"
+2017-01-21T03:52:12: Analyzing "jinja2.defaults"
+2017-01-21T03:52:12: Analyzing "jinja2.environment"
+2017-01-21T03:52:12: Analyzing "jinja2.exceptions"
+2017-01-21T03:52:12: Analyzing "jinja2.ext"
+2017-01-21T03:52:12: Analyzing "jinja2.filters"
+2017-01-21T03:52:12: Analyzing "jinja2.idtracking"
+2017-01-21T03:52:12: Analyzing "jinja2.lexer"
+2017-01-21T03:52:12: Analyzing "jinja2.loaders"
+2017-01-21T03:52:12: Analyzing "jinja2.meta"
+2017-01-21T03:52:12: Analyzing "jinja2.nodes"
+2017-01-21T03:52:12: Analyzing "jinja2.optimizer"
+2017-01-21T03:52:12: Analyzing "jinja2.parser"
+2017-01-21T03:52:12: Analyzing "jinja2.runtime"
+2017-01-21T03:52:12: Analyzing "jinja2.sandbox"
+2017-01-21T03:52:12: Analyzing "jinja2.tests"
+2017-01-21T03:52:12: Analyzing "jinja2.utils"
+2017-01-21T03:52:12: Analyzing "jinja2.visitor"
+2017-01-21T03:52:12: Analyzing "jinja2._compat"
+2017-01-21T03:52:12: Analyzing "jinja2._stringdefs"
+2017-01-21T03:52:12: Analyzing "jinja2"
+2017-01-21T03:52:12: Starting analysis of 26 modules
+2017-01-21T03:52:14: Analysis complete
+2017-01-21T03:52:14: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2"
+2017-01-21T03:52:15: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\jinja2"
+2017-01-21T03:52:15: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe" with 5 files
+2017-01-21T03:52:15: Parsing "markupsafe.tests" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe\tests.py")
+2017-01-21T03:52:15: Parsing "markupsafe._compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe\_compat.py")
+2017-01-21T03:52:15: Parsing "markupsafe._constants" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe\_constants.py")
+2017-01-21T03:52:15: Parsing "markupsafe._native" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe\_native.py")
+2017-01-21T03:52:15: Parsing "markupsafe" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe\__init__.py")
+2017-01-21T03:52:15: Parsing complete
+2017-01-21T03:52:15: Analyzing "markupsafe.tests"
+2017-01-21T03:52:15: Analyzing "markupsafe._compat"
+2017-01-21T03:52:15: Analyzing "markupsafe._constants"
+2017-01-21T03:52:15: Analyzing "markupsafe._native"
+2017-01-21T03:52:15: Analyzing "markupsafe"
+2017-01-21T03:52:15: Starting analysis of 5 modules
+2017-01-21T03:52:16: Analysis complete
+2017-01-21T03:52:16: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe"
+2017-01-21T03:52:16: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\markupsafe"
+2017-01-21T03:52:16: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip" with 233 files
+2017-01-21T03:52:16: Parsing "pip.basecommand" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\basecommand.py")
+2017-01-21T03:52:16: Parsing "pip.baseparser" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\baseparser.py")
+2017-01-21T03:52:16: Parsing "pip.cmdoptions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\cmdoptions.py")
+2017-01-21T03:52:16: Parsing "pip.download" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\download.py")
+2017-01-21T03:52:16: Parsing "pip.exceptions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\exceptions.py")
+2017-01-21T03:52:16: Parsing "pip.index" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\index.py")
+2017-01-21T03:52:16: Parsing "pip.locations" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\locations.py")
+2017-01-21T03:52:16: Parsing "pip.pep425tags" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\pep425tags.py")
+2017-01-21T03:52:16: Parsing "pip.status_codes" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\status_codes.py")
+2017-01-21T03:52:16: Parsing "pip.wheel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\wheel.py")
+2017-01-21T03:52:16: Parsing "pip" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\__init__.py")
+2017-01-21T03:52:16: Parsing "pip.__main__" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\__main__.py")
+2017-01-21T03:52:16: Parsing "pip.commands.completion" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\completion.py")
+2017-01-21T03:52:16: Parsing "pip.commands.download" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\download.py")
+2017-01-21T03:52:16: Parsing "pip.commands.freeze" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\freeze.py")
+2017-01-21T03:52:16: Parsing "pip.commands.hash" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\hash.py")
+2017-01-21T03:52:16: Parsing "pip.commands.help" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\help.py")
+2017-01-21T03:52:16: Parsing "pip.commands.install" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\install.py")
+2017-01-21T03:52:16: Parsing "pip.commands.list" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\list.py")
+2017-01-21T03:52:16: Parsing "pip.commands.search" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\search.py")
+2017-01-21T03:52:16: Parsing "pip.commands.show" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\show.py")
+2017-01-21T03:52:16: Parsing "pip.commands.uninstall" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\uninstall.py")
+2017-01-21T03:52:16: Parsing "pip.commands.wheel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\wheel.py")
+2017-01-21T03:52:16: Parsing "pip.commands" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\commands\__init__.py")
+2017-01-21T03:52:16: Parsing "pip.compat.dictconfig" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\compat\dictconfig.py")
+2017-01-21T03:52:16: Parsing "pip.compat.ordereddict" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\compat\ordereddict.py")
+2017-01-21T03:52:16: Parsing "pip.compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\compat\__init__.py")
+2017-01-21T03:52:16: Parsing "pip.models.index" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\models\index.py")
+2017-01-21T03:52:16: Parsing "pip.models" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\models\__init__.py")
+2017-01-21T03:52:16: Parsing "pip.operations.freeze" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\operations\freeze.py")
+2017-01-21T03:52:16: Parsing "pip.operations" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\operations\__init__.py")
+2017-01-21T03:52:16: Parsing "pip.req.req_file" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\req\req_file.py")
+2017-01-21T03:52:16: Parsing "pip.req.req_install" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\req\req_install.py")
+2017-01-21T03:52:16: Parsing "pip.req.req_set" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\req\req_set.py")
+2017-01-21T03:52:16: Parsing "pip.req.req_uninstall" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\req\req_uninstall.py")
+2017-01-21T03:52:16: Parsing "pip.req" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\req\__init__.py")
+2017-01-21T03:52:16: Parsing "pip.utils.appdirs" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\appdirs.py")
+2017-01-21T03:52:16: Parsing "pip.utils.build" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\build.py")
+2017-01-21T03:52:16: Parsing "pip.utils.deprecation" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\deprecation.py")
+2017-01-21T03:52:16: Parsing "pip.utils.encoding" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\encoding.py")
+2017-01-21T03:52:16: Parsing "pip.utils.filesystem" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\filesystem.py")
+2017-01-21T03:52:16: Parsing "pip.utils.hashes" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\hashes.py")
+2017-01-21T03:52:16: Parsing "pip.utils.logging" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\logging.py")
+2017-01-21T03:52:16: Parsing "pip.utils.outdated" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\outdated.py")
+2017-01-21T03:52:16: Parsing "pip.utils.setuptools_build" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\setuptools_build.py")
+2017-01-21T03:52:16: Parsing "pip.utils.ui" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\ui.py")
+2017-01-21T03:52:16: Parsing "pip.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\utils\__init__.py")
+2017-01-21T03:52:16: Parsing "pip.vcs.bazaar" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\vcs\bazaar.py")
+2017-01-21T03:52:16: Parsing "pip.vcs.git" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\vcs\git.py")
+2017-01-21T03:52:16: Parsing "pip.vcs.mercurial" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\vcs\mercurial.py")
+2017-01-21T03:52:16: Parsing "pip.vcs.subversion" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\vcs\subversion.py")
+2017-01-21T03:52:16: Parsing "pip.vcs" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\vcs\__init__.py")
+2017-01-21T03:52:16: Parsing "pip._vendor.ipaddress" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.pyparsing" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.retrying" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\retrying.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.six" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\six.py")
+2017-01-21T03:52:17: Parsing "pip._vendor" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.adapter" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.cache" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.controller" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.filewrapper" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.heuristics" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.serialize" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.wrapper" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol._cmd" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.cachecontrol.caches" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.colorama.ansi" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.colorama.ansitowin32" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.colorama.initialise" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.colorama.win32" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.colorama.winterm" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.colorama" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.database" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.index" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.locators" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.manifest" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.markers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.metadata" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.resources" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.scripts" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.util" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.version" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib.wheel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib._backport.misc" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib._backport.shutil" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib._backport.sysconfig" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib._backport.tarfile" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.distlib._backport" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.constants" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.html5parser" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.ihatexml" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.inputstream" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.sanitizer" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.tokenizer" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters.lint" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters.optionaltags" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters.sanitizer" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters.whitespace" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters._base" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.filters" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.serializer" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treeadapters.sax" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treeadapters" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treebuilders.dom" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treebuilders.etree" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treebuilders._base" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treebuilders" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treewalkers.dom" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treewalkers.etree" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treewalkers._base" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.treewalkers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.trie.datrie" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.trie.py" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.trie._base" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.html5lib.trie" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.lockfile.linklockfile" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.lockfile.mkdirlockfile" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.lockfile.pidlockfile" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.lockfile.sqlitelockfile" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.lockfile.symlinklockfile" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.lockfile" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging.markers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging.requirements" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging.specifiers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging.version" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging._compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging._structures" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging.__about__" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.packaging" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.pkg_resources" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.progress.bar" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.progress.counter" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.progress.helpers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.progress.spinner" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.progress" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.adapters" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.api" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.auth" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.certs" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.cookies" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.exceptions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.hooks" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.models" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.sessions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.status_codes" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.structures" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.constants" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.escprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.escsm" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.chardet" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.connection" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.fields" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.request" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.response" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3._collections" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.packages" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-01-21T03:52:17: Parsing "pip._vendor.requests.packages.urllib3.util" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-01-21T03:52:17: Parsing "pip._vendor._markerlib.markers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2017-01-21T03:52:17: Parsing "pip._vendor._markerlib" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2017-01-21T03:52:17: Parsing complete
+2017-01-21T03:52:17: Analyzing "pip.basecommand"
+2017-01-21T03:52:17: Analyzing "pip.baseparser"
+2017-01-21T03:52:17: Analyzing "pip.cmdoptions"
+2017-01-21T03:52:17: Analyzing "pip.download"
+2017-01-21T03:52:17: Analyzing "pip.exceptions"
+2017-01-21T03:52:17: Analyzing "pip.index"
+2017-01-21T03:52:17: Analyzing "pip.locations"
+2017-01-21T03:52:17: Analyzing "pip.pep425tags"
+2017-01-21T03:52:17: Analyzing "pip.status_codes"
+2017-01-21T03:52:17: Analyzing "pip.wheel"
+2017-01-21T03:52:17: Analyzing "pip"
+2017-01-21T03:52:17: Analyzing "pip.__main__"
+2017-01-21T03:52:17: Analyzing "pip.commands.completion"
+2017-01-21T03:52:17: Analyzing "pip.commands.download"
+2017-01-21T03:52:17: Analyzing "pip.commands.freeze"
+2017-01-21T03:52:17: Analyzing "pip.commands.hash"
+2017-01-21T03:52:17: Analyzing "pip.commands.help"
+2017-01-21T03:52:17: Analyzing "pip.commands.install"
+2017-01-21T03:52:17: Analyzing "pip.commands.list"
+2017-01-21T03:52:17: Analyzing "pip.commands.search"
+2017-01-21T03:52:17: Analyzing "pip.commands.show"
+2017-01-21T03:52:17: Analyzing "pip.commands.uninstall"
+2017-01-21T03:52:17: Analyzing "pip.commands.wheel"
+2017-01-21T03:52:17: Analyzing "pip.commands"
+2017-01-21T03:52:17: Analyzing "pip.compat.dictconfig"
+2017-01-21T03:52:17: Analyzing "pip.compat.ordereddict"
+2017-01-21T03:52:17: Analyzing "pip.compat"
+2017-01-21T03:52:17: Analyzing "pip.models.index"
+2017-01-21T03:52:17: Analyzing "pip.models"
+2017-01-21T03:52:17: Analyzing "pip.operations.freeze"
+2017-01-21T03:52:17: Analyzing "pip.operations"
+2017-01-21T03:52:17: Analyzing "pip.req.req_file"
+2017-01-21T03:52:17: Analyzing "pip.req.req_install"
+2017-01-21T03:52:17: Analyzing "pip.req.req_set"
+2017-01-21T03:52:17: Analyzing "pip.req.req_uninstall"
+2017-01-21T03:52:17: Analyzing "pip.req"
+2017-01-21T03:52:17: Analyzing "pip.utils.appdirs"
+2017-01-21T03:52:17: Analyzing "pip.utils.build"
+2017-01-21T03:52:17: Analyzing "pip.utils.deprecation"
+2017-01-21T03:52:17: Analyzing "pip.utils.encoding"
+2017-01-21T03:52:17: Analyzing "pip.utils.filesystem"
+2017-01-21T03:52:17: Analyzing "pip.utils.hashes"
+2017-01-21T03:52:17: Analyzing "pip.utils.logging"
+2017-01-21T03:52:17: Analyzing "pip.utils.outdated"
+2017-01-21T03:52:17: Analyzing "pip.utils.setuptools_build"
+2017-01-21T03:52:17: Analyzing "pip.utils.ui"
+2017-01-21T03:52:17: Analyzing "pip.utils"
+2017-01-21T03:52:17: Analyzing "pip.vcs.bazaar"
+2017-01-21T03:52:17: Analyzing "pip.vcs.git"
+2017-01-21T03:52:17: Analyzing "pip.vcs.mercurial"
+2017-01-21T03:52:17: Analyzing "pip.vcs.subversion"
+2017-01-21T03:52:17: Analyzing "pip.vcs"
+2017-01-21T03:52:17: Analyzing "pip._vendor.ipaddress"
+2017-01-21T03:52:17: Analyzing "pip._vendor.pyparsing"
+2017-01-21T03:52:17: Analyzing "pip._vendor.retrying"
+2017-01-21T03:52:17: Analyzing "pip._vendor.six"
+2017-01-21T03:52:17: Analyzing "pip._vendor"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.cache"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.compat"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.controller"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol._cmd"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-01-21T03:52:17: Analyzing "pip._vendor.cachecontrol.caches"
+2017-01-21T03:52:17: Analyzing "pip._vendor.colorama.ansi"
+2017-01-21T03:52:17: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-01-21T03:52:17: Analyzing "pip._vendor.colorama.initialise"
+2017-01-21T03:52:17: Analyzing "pip._vendor.colorama.win32"
+2017-01-21T03:52:17: Analyzing "pip._vendor.colorama.winterm"
+2017-01-21T03:52:17: Analyzing "pip._vendor.colorama"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.compat"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.database"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.index"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.locators"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.manifest"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.markers"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.metadata"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.resources"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.scripts"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.util"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.version"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib.wheel"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib._backport.misc"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-01-21T03:52:17: Analyzing "pip._vendor.distlib._backport"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.constants"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.html5parser"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.ihatexml"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.inputstream"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.sanitizer"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.tokenizer"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.utils"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters._base"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.filters"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.serializer"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.trie.datrie"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.trie.py"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.trie._base"
+2017-01-21T03:52:17: Analyzing "pip._vendor.html5lib.trie"
+2017-01-21T03:52:17: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-01-21T03:52:17: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-01-21T03:52:17: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-01-21T03:52:17: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-01-21T03:52:17: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-01-21T03:52:17: Analyzing "pip._vendor.lockfile"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging.markers"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging.requirements"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging.specifiers"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging.utils"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging.version"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging._compat"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging._structures"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging.__about__"
+2017-01-21T03:52:17: Analyzing "pip._vendor.packaging"
+2017-01-21T03:52:17: Analyzing "pip._vendor.pkg_resources"
+2017-01-21T03:52:17: Analyzing "pip._vendor.progress.bar"
+2017-01-21T03:52:17: Analyzing "pip._vendor.progress.counter"
+2017-01-21T03:52:17: Analyzing "pip._vendor.progress.helpers"
+2017-01-21T03:52:17: Analyzing "pip._vendor.progress.spinner"
+2017-01-21T03:52:17: Analyzing "pip._vendor.progress"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.adapters"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.api"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.auth"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.certs"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.compat"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.cookies"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.exceptions"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.hooks"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.models"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.sessions"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.status_codes"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.structures"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.utils"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.chardet"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-01-21T03:52:17: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-01-21T03:52:17: Analyzing "pip._vendor._markerlib.markers"
+2017-01-21T03:52:17: Analyzing "pip._vendor._markerlib"
+2017-01-21T03:52:17: Starting analysis of 233 modules
+2017-01-21T03:52:24: Analysis complete
+2017-01-21T03:52:24: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip"
+2017-01-21T03:52:26: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pip"
+2017-01-21T03:52:26: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources" with 14 files
+2017-01-21T03:52:26: Parsing "pkg_resources" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\__init__.py")
+2017-01-21T03:52:26: Parsing "pkg_resources.extern" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\extern\__init__.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.pyparsing" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.six" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\six.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging.markers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging.requirements" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging.specifiers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging.version" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging._compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging._structures" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging.__about__" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2017-01-21T03:52:26: Parsing "pkg_resources._vendor.packaging" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2017-01-21T03:52:26: Parsing complete
+2017-01-21T03:52:26: Analyzing "pkg_resources"
+2017-01-21T03:52:26: Analyzing "pkg_resources.extern"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.pyparsing"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.six"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging.markers"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging.requirements"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging.utils"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging.version"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging._compat"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging._structures"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging.__about__"
+2017-01-21T03:52:26: Analyzing "pkg_resources._vendor.packaging"
+2017-01-21T03:52:26: Starting analysis of 14 modules
+2017-01-21T03:52:29: Analysis complete
+2017-01-21T03:52:29: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources"
+2017-01-21T03:52:29: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\pkg_resources"
+2017-01-21T03:52:29: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools" with 41 files
+2017-01-21T03:52:29: Parsing "setuptools.archive_util" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\archive_util.py")
+2017-01-21T03:52:29: Parsing "setuptools.depends" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\depends.py")
+2017-01-21T03:52:29: Parsing "setuptools.dist" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\dist.py")
+2017-01-21T03:52:29: Parsing "setuptools.extension" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\extension.py")
+2017-01-21T03:52:29: Parsing "setuptools.launch" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\launch.py")
+2017-01-21T03:52:29: Parsing "setuptools.lib2to3_ex" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-01-21T03:52:29: Parsing "setuptools.msvc9_support" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\msvc9_support.py")
+2017-01-21T03:52:29: Parsing "setuptools.package_index" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\package_index.py")
+2017-01-21T03:52:29: Parsing "setuptools.py26compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\py26compat.py")
+2017-01-21T03:52:29: Parsing "setuptools.py27compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\py27compat.py")
+2017-01-21T03:52:29: Parsing "setuptools.py31compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\py31compat.py")
+2017-01-21T03:52:29: Parsing "setuptools.sandbox" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\sandbox.py")
+2017-01-21T03:52:29: Parsing "setuptools.ssl_support" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\ssl_support.py")
+2017-01-21T03:52:29: Parsing "setuptools.unicode_utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\unicode_utils.py")
+2017-01-21T03:52:29: Parsing "setuptools.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\utils.py")
+2017-01-21T03:52:29: Parsing "setuptools.version" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\version.py")
+2017-01-21T03:52:29: Parsing "setuptools.windows_support" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\windows_support.py")
+2017-01-21T03:52:29: Parsing "setuptools" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\__init__.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.alias" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\alias.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.bdist_egg" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.bdist_rpm" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.bdist_wininst" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.build_ext" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\build_ext.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.build_py" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\build_py.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.develop" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\develop.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.easy_install" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\easy_install.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.egg_info" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\egg_info.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.install" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\install.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.install_egg_info" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.install_lib" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\install_lib.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.install_scripts" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.register" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\register.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.rotate" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\rotate.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.saveopts" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\saveopts.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.sdist" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\sdist.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.setopt" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\setopt.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.test" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\test.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.upload" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\upload.py")
+2017-01-21T03:52:29: Parsing "setuptools.command.upload_docs" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-01-21T03:52:29: Parsing "setuptools.command" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\command\__init__.py")
+2017-01-21T03:52:29: Parsing "setuptools.extern" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools\extern\__init__.py")
+2017-01-21T03:52:29: Parsing complete
+2017-01-21T03:52:29: Analyzing "setuptools.archive_util"
+2017-01-21T03:52:29: Analyzing "setuptools.depends"
+2017-01-21T03:52:29: Analyzing "setuptools.dist"
+2017-01-21T03:52:29: Analyzing "setuptools.extension"
+2017-01-21T03:52:29: Analyzing "setuptools.launch"
+2017-01-21T03:52:29: Analyzing "setuptools.lib2to3_ex"
+2017-01-21T03:52:29: Analyzing "setuptools.msvc9_support"
+2017-01-21T03:52:29: Analyzing "setuptools.package_index"
+2017-01-21T03:52:29: Analyzing "setuptools.py26compat"
+2017-01-21T03:52:29: Analyzing "setuptools.py27compat"
+2017-01-21T03:52:29: Analyzing "setuptools.py31compat"
+2017-01-21T03:52:29: Analyzing "setuptools.sandbox"
+2017-01-21T03:52:29: Analyzing "setuptools.ssl_support"
+2017-01-21T03:52:29: Analyzing "setuptools.unicode_utils"
+2017-01-21T03:52:29: Analyzing "setuptools.utils"
+2017-01-21T03:52:29: Analyzing "setuptools.version"
+2017-01-21T03:52:29: Analyzing "setuptools.windows_support"
+2017-01-21T03:52:29: Analyzing "setuptools"
+2017-01-21T03:52:29: Analyzing "setuptools.command.alias"
+2017-01-21T03:52:29: Analyzing "setuptools.command.bdist_egg"
+2017-01-21T03:52:29: Analyzing "setuptools.command.bdist_rpm"
+2017-01-21T03:52:29: Analyzing "setuptools.command.bdist_wininst"
+2017-01-21T03:52:29: Analyzing "setuptools.command.build_ext"
+2017-01-21T03:52:29: Analyzing "setuptools.command.build_py"
+2017-01-21T03:52:29: Analyzing "setuptools.command.develop"
+2017-01-21T03:52:29: Analyzing "setuptools.command.easy_install"
+2017-01-21T03:52:29: Analyzing "setuptools.command.egg_info"
+2017-01-21T03:52:29: Analyzing "setuptools.command.install"
+2017-01-21T03:52:29: Analyzing "setuptools.command.install_egg_info"
+2017-01-21T03:52:29: Analyzing "setuptools.command.install_lib"
+2017-01-21T03:52:29: Analyzing "setuptools.command.install_scripts"
+2017-01-21T03:52:29: Analyzing "setuptools.command.register"
+2017-01-21T03:52:29: Analyzing "setuptools.command.rotate"
+2017-01-21T03:52:29: Analyzing "setuptools.command.saveopts"
+2017-01-21T03:52:29: Analyzing "setuptools.command.sdist"
+2017-01-21T03:52:29: Analyzing "setuptools.command.setopt"
+2017-01-21T03:52:29: Analyzing "setuptools.command.test"
+2017-01-21T03:52:29: Analyzing "setuptools.command.upload"
+2017-01-21T03:52:29: Analyzing "setuptools.command.upload_docs"
+2017-01-21T03:52:29: Analyzing "setuptools.command"
+2017-01-21T03:52:29: Analyzing "setuptools.extern"
+2017-01-21T03:52:29: Starting analysis of 41 modules
+2017-01-21T03:52:31: Analysis complete
+2017-01-21T03:52:31: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools"
+2017-01-21T03:52:31: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\setuptools"
+2017-01-21T03:52:31: Start group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug" with 39 files
+2017-01-21T03:52:31: Parsing "werkzeug.datastructures" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\datastructures.py")
+2017-01-21T03:52:31: Parsing "werkzeug.exceptions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\exceptions.py")
+2017-01-21T03:52:31: Parsing "werkzeug.filesystem" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\filesystem.py")
+2017-01-21T03:52:31: Parsing "werkzeug.formparser" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\formparser.py")
+2017-01-21T03:52:31: Parsing "werkzeug.http" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\http.py")
+2017-01-21T03:52:31: Parsing "werkzeug.local" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\local.py")
+2017-01-21T03:52:31: Parsing "werkzeug.posixemulation" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\posixemulation.py")
+2017-01-21T03:52:31: Parsing "werkzeug.routing" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\routing.py")
+2017-01-21T03:52:31: Parsing "werkzeug.script" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\script.py")
+2017-01-21T03:52:31: Parsing "werkzeug.security" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\security.py")
+2017-01-21T03:52:31: Parsing "werkzeug.serving" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\serving.py")
+2017-01-21T03:52:31: Parsing "werkzeug.test" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\test.py")
+2017-01-21T03:52:31: Parsing "werkzeug.testapp" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\testapp.py")
+2017-01-21T03:52:31: Parsing "werkzeug.urls" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\urls.py")
+2017-01-21T03:52:31: Parsing "werkzeug.useragents" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\useragents.py")
+2017-01-21T03:52:31: Parsing "werkzeug.utils" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\utils.py")
+2017-01-21T03:52:31: Parsing "werkzeug.wrappers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\wrappers.py")
+2017-01-21T03:52:31: Parsing "werkzeug.wsgi" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\wsgi.py")
+2017-01-21T03:52:31: Parsing "werkzeug._compat" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\_compat.py")
+2017-01-21T03:52:31: Parsing "werkzeug._internal" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\_internal.py")
+2017-01-21T03:52:31: Parsing "werkzeug._reloader" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\_reloader.py")
+2017-01-21T03:52:31: Parsing "werkzeug" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\__init__.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.atom" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\atom.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.cache" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\cache.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.fixers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\fixers.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.iterio" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\iterio.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.jsrouting" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\jsrouting.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.limiter" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\limiter.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.lint" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\lint.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.profiler" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\profiler.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.securecookie" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\securecookie.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.sessions" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\sessions.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.testtools" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\testtools.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib.wrappers" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\wrappers.py")
+2017-01-21T03:52:31: Parsing "werkzeug.contrib" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\contrib\__init__.py")
+2017-01-21T03:52:31: Parsing "werkzeug.debug.console" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\debug\console.py")
+2017-01-21T03:52:31: Parsing "werkzeug.debug.repr" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\debug\repr.py")
+2017-01-21T03:52:31: Parsing "werkzeug.debug.tbtools" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\debug\tbtools.py")
+2017-01-21T03:52:31: Parsing "werkzeug.debug" ("c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug\debug\__init__.py")
+2017-01-21T03:52:31: Parsing complete
+2017-01-21T03:52:31: Analyzing "werkzeug.datastructures"
+2017-01-21T03:52:31: Analyzing "werkzeug.exceptions"
+2017-01-21T03:52:31: Analyzing "werkzeug.filesystem"
+2017-01-21T03:52:31: Analyzing "werkzeug.formparser"
+2017-01-21T03:52:31: Analyzing "werkzeug.http"
+2017-01-21T03:52:31: Analyzing "werkzeug.local"
+2017-01-21T03:52:31: Analyzing "werkzeug.posixemulation"
+2017-01-21T03:52:31: Analyzing "werkzeug.routing"
+2017-01-21T03:52:31: Analyzing "werkzeug.script"
+2017-01-21T03:52:31: Analyzing "werkzeug.security"
+2017-01-21T03:52:31: Analyzing "werkzeug.serving"
+2017-01-21T03:52:31: Analyzing "werkzeug.test"
+2017-01-21T03:52:31: Analyzing "werkzeug.testapp"
+2017-01-21T03:52:31: Analyzing "werkzeug.urls"
+2017-01-21T03:52:31: Analyzing "werkzeug.useragents"
+2017-01-21T03:52:31: Analyzing "werkzeug.utils"
+2017-01-21T03:52:31: Analyzing "werkzeug.wrappers"
+2017-01-21T03:52:31: Analyzing "werkzeug.wsgi"
+2017-01-21T03:52:31: Analyzing "werkzeug._compat"
+2017-01-21T03:52:31: Analyzing "werkzeug._internal"
+2017-01-21T03:52:31: Analyzing "werkzeug._reloader"
+2017-01-21T03:52:31: Analyzing "werkzeug"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.atom"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.cache"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.fixers"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.iterio"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.jsrouting"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.limiter"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.lint"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.profiler"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.securecookie"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.sessions"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.testtools"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib.wrappers"
+2017-01-21T03:52:31: Analyzing "werkzeug.contrib"
+2017-01-21T03:52:31: Analyzing "werkzeug.debug.console"
+2017-01-21T03:52:31: Analyzing "werkzeug.debug.repr"
+2017-01-21T03:52:31: Analyzing "werkzeug.debug.tbtools"
+2017-01-21T03:52:31: Analyzing "werkzeug.debug"
+2017-01-21T03:52:31: Starting analysis of 39 modules
+2017-01-21T03:52:34: Analysis complete
+2017-01-21T03:52:34: Saving group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug"
+2017-01-21T03:52:35: End of group "c:\users\budocf\documents\visual studio 2015\Projects\Rendezvous\Rendezvous\env\Lib\site-packages\werkzeug"
+2017-01-21T03:52:35: Deleting 0 files
+
+2017-01-21T04:03:12: Start analysis
+2017-01-21T04:03:12: [WARNING] Library was set explicitly - skipping path detection
+2017-01-21T04:03:12: IncludeModulesFromModulePath = win32com
+2017-01-21T04:03:12: Deleting 0 files
