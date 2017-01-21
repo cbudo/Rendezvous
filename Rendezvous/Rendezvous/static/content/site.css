@@ -40,7 +40,72 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+
 .img-circle {
     border-radius: 50%;
     padding-top: 0em;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    margin-right: 5px;
+    font-family: 'Pacifico', cursive;
+    color: white !important;
+}
+
+.navbar-nav {
+    font-size: 15px;
+    font-family: 'Pacifico', cursive;
+}
+
+.navbar-right {
+    font-family: 'Pacifico', cursive;
+}
+
+body {
+    background: url("https://s-media-cache-ak0.pinimg.com/originals/b9/5d/27/b95d27686ad0b325094a3279086c6ae3.jpg");
+}
+
+.buffer {
+    margin-top: 150px;
+}
+
+.buffer2 {
+    margin-top: 40px;
+}
+
+h1 {
+    font-family: 'Josefin Slab', serif, bold;
+    font-size: 80px;
+}
+
+.buttonLink {
+    font-family: 'Josefin Slab', serif, bold;
+    font-size: 40px;
+}
+
+.btn {
+    background: black;
+    color: white;
+}
+
+    .btn:hover {
+        color: #b8b8b8;
+    }
+
+.btn-xl {
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 20px 50px;
+    font-size: 50px;
+    line-height: normal;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
