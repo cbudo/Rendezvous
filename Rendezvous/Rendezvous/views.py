@@ -23,7 +23,7 @@ def contact():
         'contact.html',
         title='Contact',
         year=datetime.now().year,
-        message='Your contact page.'
+        message='If you have any issues while using Rendezvous With Me - contact us at:'
     )
 
 @app.route('/plan')
@@ -43,5 +43,5 @@ def about():
         'about.html',
         title='About',
         year=datetime.now().year,
-        message='Your application description page.'
+        message='Rendezvous With Me was created in 36 hours by a team of Rose-Hulman Students.'
     )
