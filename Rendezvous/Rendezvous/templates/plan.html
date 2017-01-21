@@ -2,22 +2,20 @@
 
 {% block content %}
 
-<script type="text/javascript">
-    $(function () {
-        var $j = jQuery.noConflict();
-        var $k = jQuery.noConflict();
-        $j('#date1').datepicker();
-        $k('#date2').datepicker({
-            useCurrent: false //Important! See issue #1075
-        });
-        $("#date1").on("dp.change", function (e) {
-            $('#date2').data("DateTimePicker").minDate(e.date);
-        });
-        $("#date2").on("dp.change", function (e) {
-            $('#date1').data("DateTimePicker").maxDate(e.date);
-        });
-    });
+meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>jQuery UI Datepicker - Default functionality</title>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  $( function() {
+      $("#datepicker").datepicker();
+      $("#datepicker2").datepicker();
+  } );
 </script>
+
 
 <div class="row top buffer2">
     <div class="text-center entrance">
@@ -32,36 +30,19 @@
 </div>
 
 
-<form action="/schedule/create" method="post">
-
     <div class="row">
         .    <div class='col-xs-3 buffer2 text-center'>
-            <div class="form-group">
-                <label for="date1" class="h2">Start date</label>
-                <div class='input-group date' id='date1'>
-                    <input type='text' class="form-control" />
-                    <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
-                    </span>
-                </div>
+                <label for="datepicker" class="h2">Start date</label>
+                 <p><input type="text" id="datepicker"></p>
             </div>
-        </div>
+
+
         <div class='col-xs-3 buffer2 text-center'>
-            <div class="form-group">
-                <label for="date2" class="h2">End date</label>
-                <div class='input-group date' id='date2'>
-                    <input type='text' class="form-control" />
-                    <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
-                    </span>
+            <label for="datepicker2" class="h2">End date</label>
+                    <p><input type="text" id="datepicker2"></p>
                 </div>
-            </div>
-        </div>
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-</form>
-
-
-
+          </div>
+      
+ 
 
 {% endblock %}
