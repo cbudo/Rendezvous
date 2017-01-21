@@ -1,0 +1,52 @@
+﻿{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="row top buffer2">
+    <div class="text-center entrance">
+        <h1>
+            Start planning with
+            <cursive>Rendezvous</cursive>
+        </h1>
+    </div>
+</div>
+<div class="col-xs-3 buffer2 text-center">
+    <h2 class="buttonLink">Desired dates:</h2>
+</div>
+<div class='col-xs-3 buffer3 text-center'>
+    <div class="form-group">
+        <div class='input-group date' id='date1'>
+            <input type='text' class="form-control" />
+            <span class="input-group-addon">
+                <span class="glyphicon glyphicon-calendar"></span>
+            </span>
+        </div>
+    </div>
+</div>
+<div class='col-xs-3 buffer3 text-center'>
+    <div class="form-group">
+        <div class='input-group date' id='date2'>
+            <input type='text' class="form-control" />
+            <span class="input-group-addon">
+                <span class="glyphicon glyphicon-calendar"></span>
+            </span>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $('#date1').datetimepicker();
+        $('#date2').datetimepicker({
+            useCurrent: false 
+        });
+        $("#date1").on("dp.change", function (e) {
+            $('#date2').data("DateTimePicker").minDate(e.date);
+        });
+        $("#date1").on("dp.change", function (e) {
+            $('#date2').data("DateTimePicker").maxDate(e.date);
+        });
+    });
+</script>
+
+
+{% endblock %}

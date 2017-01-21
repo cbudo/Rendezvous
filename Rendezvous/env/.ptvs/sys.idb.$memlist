@@ -2,7 +2,6 @@ BuiltinImporter
 __displayhook__
 __doc__
 __excepthook__
-__interactivehook__
 __loader__
 __name__
 __package__
@@ -14,7 +13,6 @@ _clear_type_cache
 _current_frames
 _debugmallocstats
 _getframe
-_home
 _mercurial
 _xoptions
 api_version
@@ -64,6 +62,7 @@ path_hooks
 path_importer_cache
 platform
 prefix
+real_prefix
 set_coroutine_wrapper
 setcheckinterval
 setprofile

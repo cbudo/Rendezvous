@@ -3,9 +3,9 @@ get_summaries
 PipError
 UpdatingDefaultsHelpFormatter
 InstallationError
-req
-operations
 __main__
+operations
+models
 baseparser
 wheel
 exceptions
@@ -26,13 +26,14 @@ download
 re
 pip
 main
+DependencyWarning
 cmdoptions
 warnings
 utils
 locale
 parseopts
 logger
-models
+req
 sys
 commands
 FrozenRequirement

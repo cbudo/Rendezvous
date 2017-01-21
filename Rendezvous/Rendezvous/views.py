@@ -26,6 +26,16 @@ def contact():
         message='Your contact page.'
     )
 
+@app.route('/plan')
+def plan():
+    """Renders the planning page."""
+    return render_template(
+        'plan.html',
+        title='Plan',
+        year=datetime.now().year,
+        message='Your planning page.'
+    )
+
 @app.route('/about')
 def about():
     """Renders the about page."""

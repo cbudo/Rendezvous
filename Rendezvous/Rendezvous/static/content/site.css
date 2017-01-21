@@ -59,8 +59,7 @@ input[type="checkbox"].input-validation-error {
 }
 
 .navbar-right {
-    font-family: 'Pacifico', cursive;
-}
+    font-family: 'Pacifico', cursive
 
 body {
     background: url("https://s-media-cache-ak0.pinimg.com/originals/b9/5d/27/b95d27686ad0b325094a3279086c6ae3.jpg");
@@ -72,6 +71,10 @@ body {
 
 .buffer2 {
     margin-top: 40px;
+}
+
+.buffer3 {
+    margin-top: 60px;
 }
 
 h1 {

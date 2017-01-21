@@ -18,7 +18,7 @@
     <PythonWsgiHandler>$(MSBuildProjectName).app</PythonWsgiHandler>
     <Name>Rendezvous</Name>
     <RootNamespace>Rendezvous</RootNamespace>
-    <InterpreterId>{1a117f76-24aa-4a4e-a1c3-4d0a2fe7d52a}</InterpreterId>
+    <InterpreterId>{32926245-1447-4873-8df1-c6cb6162e8fb}</InterpreterId>
     <InterpreterVersion>3.5</InterpreterVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -48,6 +48,7 @@
     <Content Include="Rendezvous\static\content\img\IMG_0766.jpg" />
     <Content Include="Rendezvous\static\content\img\IMG_0767.jpg" />
     <Content Include="Rendezvous\static\content\img\IMG_0768.jpg" />
+    <Content Include="Rendezvous\templates\plan.html" />
     <Content Include="requirements.txt" />
     <Content Include="Rendezvous\static\content\bootstrap.css" />
     <Content Include="Rendezvous\static\content\bootstrap.min.css" />
@@ -78,7 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
-      <Id>{1a117f76-24aa-4a4e-a1c3-4d0a2fe7d52a}</Id>
+      <Id>{32926245-1447-4873-8df1-c6cb6162e8fb}</Id>
       <BaseInterpreter>{9a7a9026-48c1-4688-9d5d-e5699d47d074}</BaseInterpreter>
       <Version>3.5</Version>
       <Description>env (Python 64-bit 3.5)</Description>
