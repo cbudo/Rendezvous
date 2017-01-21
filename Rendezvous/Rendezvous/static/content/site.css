@@ -1,6 +1,8 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background: url("https://s-media-cache-ak0.pinimg.com/originals/b9/5d/27/b95d27686ad0b325094a3279086c6ae3.jpg");
+	overflow-x: hidden; 
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -59,10 +61,7 @@ input[type="checkbox"].input-validation-error {
 }
 
 .navbar-right {
-    font-family: 'Pacifico', cursive
-
-body {
-    background: url("https://s-media-cache-ak0.pinimg.com/originals/b9/5d/27/b95d27686ad0b325094a3279086c6ae3.jpg");
+    font-family: 'Pacifico', cursive;
 }
 
 .buffer {
@@ -74,12 +73,17 @@ body {
 }
 
 .buffer3 {
-    margin-top: 60px;
+    margin-top: 45px;
 }
 
 h1 {
     font-family: 'Josefin Slab', serif, bold;
     font-size: 80px;
+}
+
+.h2{
+	font-family: 'Josefin Slab', serif, bold;
+	font-size: 20px;
 }
 
 .buttonLink {
@@ -105,6 +109,10 @@ h1 {
     -webkit-border-radius: 16px;
     -moz-border-radius: 16px;
     border-radius: 16px;
+}
+
+.cursive{
+	font-family: 'Pacifico', cursive;
 }
 
 .footer {

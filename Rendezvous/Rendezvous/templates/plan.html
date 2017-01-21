@@ -2,51 +2,66 @@
 
 {% block content %}
 
+<script type="text/javascript">
+    $(function () {
+        var $j = jQuery.noConflict();
+        var $k = jQuery.noConflict();
+        $j('#date1').datepicker();
+        $k('#date2').datepicker({
+            useCurrent: false //Important! See issue #1075
+        });
+        $("#date1").on("dp.change", function (e) {
+            $('#date2').data("DateTimePicker").minDate(e.date);
+        });
+        $("#date2").on("dp.change", function (e) {
+            $('#date1').data("DateTimePicker").maxDate(e.date);
+        });
+    });
+</script>
+
 <div class="row top buffer2">
     <div class="text-center entrance">
         <h1>
             Start planning with
-            <cursive>Rendezvous</cursive>
+            <span class="cursive">Rendezvous</span>
         </h1>
     </div>
 </div>
 <div class="col-xs-3 buffer2 text-center">
     <h2 class="buttonLink">Desired dates:</h2>
 </div>
-<div class='col-xs-3 buffer3 text-center'>
-    <div class="form-group">
-        <div class='input-group date' id='date1'>
-            <input type='text' class="form-control" />
-            <span class="input-group-addon">
-                <span class="glyphicon glyphicon-calendar"></span>
-            </span>
+
+
+<form action="/schedule/create" method="post">
+
+    <div class="row">
+        .    <div class='col-xs-3 buffer2 text-center'>
+            <div class="form-group">
+                <label for="date1" class="h2">Start date</label>
+                <div class='input-group date' id='date1'>
+                    <input type='text' class="form-control" />
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class='col-xs-3 buffer2 text-center'>
+            <div class="form-group">
+                <label for="date2" class="h2">End date</label>
+                <div class='input-group date' id='date2'>
+                    <input type='text' class="form-control" />
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+            </div>
         </div>
     </div>
-</div>
-<div class='col-xs-3 buffer3 text-center'>
-    <div class="form-group">
-        <div class='input-group date' id='date2'>
-            <input type='text' class="form-control" />
-            <span class="input-group-addon">
-                <span class="glyphicon glyphicon-calendar"></span>
-            </span>
-        </div>
-    </div>
-</div>
-<script type="text/javascript">
-    $(function () {
-        $('#date1').datetimepicker();
-        $('#date2').datetimepicker({
-            useCurrent: false 
-        });
-        $("#date1").on("dp.change", function (e) {
-            $('#date2').data("DateTimePicker").minDate(e.date);
-        });
-        $("#date1").on("dp.change", function (e) {
-            $('#date2').data("DateTimePicker").maxDate(e.date);
-        });
-    });
-</script>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
 
 
 {% endblock %}

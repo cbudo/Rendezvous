@@ -45,3 +45,7 @@ def about():
         year=datetime.now().year,
         message='Rendezvous With Me was created in 36 hours by a team of Rose-Hulman Students.'
     )
+
+@app.route('/schedule/create')
+def schedule():
+    return "schedule created"
