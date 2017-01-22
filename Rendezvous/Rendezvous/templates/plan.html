@@ -15,74 +15,84 @@
         $('#timepicker2').timepicker();
     });
 </script>
-
-
-<div class="row top buffer2">
-    <div class="text-center entrance">
-        <h1>
-            Start planning with
-            <span class="cursive">Rendezvous</span>
-        </h1>
-    </div>
-</div>
-<div class="col-xs-3 buffer2 text-center">
-    <h2 class="buttonLink">Desired dates:</h2>
-</div>
-
-
-<div class="row">
-        <div class='col-xs-3 buffer2 text-center'>
-        <label for="datepicker" class="h2">Start date</label>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
-                <input type="text" id="datepicker" class="form-control">
+<div class="container">
+    <form class="form-horizontal" method="post" action="/schedule/create">
+        <div class="row top buffer2">
+            <div class="text-center entrance">
+                <h1>
+                    Start planning with
+                    <span class="cursive">Rendezvous</span>
+                </h1>
             </div>
-    </div>
-
-
-    <div class='col-xs-3 buffer2 text-center'>
-        <label for="datepicker2" class="h2">End date</label>
-        <div class="input-group">
-            <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
-            <input type="text" id="datepicker2" class="form-control">
         </div>
-    </div>
-</div>
+        <div class="row">
+            <div class="form-group col-lg-6 col-md-12">
+                <div class="col-xs-3 buffer2 text-center">
+                    <h2 class="buttonLink">Desired dates:</h2>
+                </div>
+                <div class='col-xs-3 buffer2 text-center'>
+                    <label for="datepicker" class="h2">Start date</label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+                        <input type="text" id="datepicker" name="start_date" class="form-control">
+                    </div>
+                </div>
 
-<div class="col-xs-3 buffer2 text-center">
-    <h2 class="buttonLink">Desired time range:</h2>
-</div>
-<div class="row">
-    <div class='col-xs-3 buffer3 text-center'>
-        <label for="timepicker" class="h2">Start time</label>
-        <div class="input-group">
-            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
-            <input type="text" id="timepicker" class="form-control">
+
+                <div class='col-xs-3 buffer2 text-center'>
+                    <label for="datepicker2" class="h2">End date</label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+                        <input type="text" id="datepicker2" name="end_date" class="form-control">
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6 col-md-12">
+                <div class="col-xs-3 buffer2 text-center">
+                    <h2 class="buttonLink">Desired time range:</h2>
+                </div>
+                <div class="row">
+                    <div class='col-xs-3 buffer3 text-center'>
+                        <label for="timepicker" class="h2">Start time</label>
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+                            <input type="text" id="timepicker" name="start_time" class="form-control">
+                        </div>
+                    </div>
+
+
+                    <div class='col-xs-3 buffer3 text-center'>
+                        <label for="timepicker2" class="h2">End time</label>
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+                            <input type="text" id="timepicker2" name="end_time" class="form-control">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6 col-md-12">
+                <div class="col-xs-3 buffer2 text-center">
+                    <h2 class="buttonLink">Desired length of time slot:</h2>
+                </div>
+                <div class="col-xs-1"></div>
+                <div class='col-xs-3 buffer3 text-center'>
+                    <div class="input-group text-center">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+                        <input type="text" name="slot_duration" class="form-control">
+                    </div>
+                </div>
+                <div class="col-xs-1 text-center buffer4">
+                    <p class="h2">minutes</p>
+                </div>
+            </div>
         </div>
-    </div>
-
-
-    <div class='col-xs-3 buffer3 text-center'>
-        <label for="timepicker2" class="h2">End time</label>
-        <div class="input-group">
-            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
-            <input type="text" id="timepicker2" class="form-control">
+        <div class="row">
+            <div class="col-lg-9 col-md-8 col-sm-8 col-xs-6"></div>
+            <div class="col-lg-3 col-md-4 col-sm-4 col-xs-6">
+                <button class="btn btn-primary" type="submit">Create Schedule&raquo;</button>
+            </div>
         </div>
-    </div>
+    </form>
 </div>
-<div class="col-xs-3 buffer2 text-center">
-    <h2 class="buttonLink">Desired length of time slot:</h2>
-</div>
-<div class="col-xs-1"></div>
-<div class='col-xs-3 buffer3 text-center'>
-    <div class="input-group text-center">
-        <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
-        <input type="text" class="form-control">
-    </div>
-</div>
-<div class="col-xs-1 text-center buffer4">
-    <p class="h2">minutes</p>
-</div>
-
-
+<div class="row"><br /><br /></div>
 {% endblock %}
