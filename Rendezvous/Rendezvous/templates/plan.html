@@ -1,18 +1,15 @@
 ﻿{% extends "layout.html" %}
 
 {% block content %}
-<script src="http://jonthornton.github.io/jquery-timepicker/jquery.timepicker.js"></script>
-<link rel="stylesheet" type="text/css" href="http://jonthornton.github.io/jquery-timepicker/jquery.timepicker.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js"></script>
 
 <script>
     $(function () {
         $("#datepicker").datepicker();
         $("#datepicker2").datepicker();
-    });
-
-    $(function () {
-        $('#timepicker').timepicker();
-        $('#timepicker2').timepicker();
+        $('#timepicker').timepicker({ timeFormat: 'HH:mm', defaultTime: '6', interval: 15, minTime: '6' });
+        $('#timepicker2').timepicker({ timeFormat: 'HH:mm', defaultTime: '6', interval: 15, minTime: '6', });
     });
 </script>
 <div class="container">
