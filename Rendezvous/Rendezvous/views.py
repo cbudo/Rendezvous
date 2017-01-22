@@ -46,6 +46,13 @@ def about():
         message='Rendezvous With Me was created in 36 hours by a team of Rose-Hulman Students.'
     )
 
-@app.route('/schedule/create')
+@app.route('/schedule/create', methods=['POST'])
 def schedule():
-    return "schedule created"
+    data = request.data
+    client = pymongo.MongoClient("mongodb://Boilermake:Boilermake2017@cluster0-shard-00-00-sifbq.mongodb.net:27017,cluster0-shard-00-01-sifbq.mongodb.net:27017,cluster0-shard-00-02-sifbq.mongodb.net:27017/admin?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin")
+    db = client.time_slots
+    for date in range(data['start_date'], data['end_date']):
+        for i in range(data["start_time"], data["end_time"], data["duration"]):
+            time_slot = {"date":date, "time": i, "duration":data['duration'], "open":1, "email":None}
+            db.insert_one(time_slot)
+    return render_template('sendSchedule.html', title='Send Schedule', bytearray=datetime.now().year)
