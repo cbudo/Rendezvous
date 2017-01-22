@@ -1,0 +1,10 @@
+﻿{% extends "layout.html" %}
+
+{% block content %}
+
+<h1>Schedule Created!</h1>
+<p>To allow people to sign up for time slots - enter their email below separated by semicolons.</p>
+<form class="form-horizontal" method="post" action="/schedule/send/{{schedule_num}}">
+
+</form>
+{% endblock %}
