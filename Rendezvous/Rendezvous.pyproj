@@ -20,6 +20,7 @@
     <RootNamespace>Rendezvous</RootNamespace>
     <InterpreterId>{fcd1b0da-cf38-4366-889f-b203156c2274}</InterpreterId>
     <InterpreterVersion>3.5</InterpreterVersion>
+    <NameOfLastUsedPublishProfile>rendezvousasp20170121051101 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -44,6 +45,7 @@
     <Folder Include="Rendezvous\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="rendezvousasp20170121051101 - Web Deploy.pubxml" />
     <Content Include="Rendezvous\static\content\img\15293403_1625942354097868_567547012_o.jpg" />
     <Content Include="Rendezvous\static\content\img\IMG_0766.jpg" />
     <Content Include="Rendezvous\static\content\img\IMG_0767.jpg" />
