@@ -61,6 +61,15 @@ input[type="checkbox"].input-validation-error {
     font-family: 'Pacifico', cursive;
 }
 
+.title {
+    font-family: 'Pacifico', cursive;
+    font-size:40px;
+}
+
+.norm {
+    font-family: 'Josefin Slab', serif, bold;
+}
+
 .navbar-right {
     font-family: 'Pacifico', cursive;
 }
@@ -156,3 +165,4 @@ input, textarea, keygen, select, button {
     margin: 0em 0em 0em 0em;
     font: 12.6667px Arial;
 }
+

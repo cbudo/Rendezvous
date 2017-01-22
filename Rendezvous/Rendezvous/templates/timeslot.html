@@ -1,0 +1,22 @@
+﻿{% extends "layout.html" %}
+
+{% block content %}
+
+
+<table>
+    {% for item in items %}
+    <TR>
+        <TD class="c1"><{{item.start}}></TD>
+        <TD class="c2">{{item.duration}}</TD>
+        <TD class="c3">{{item.open}}</TD>
+        <TD class="c4"><SPAN>{{item.email}}</SPAN></TD>
+        <TD class="c5"><SPAN>{{item.day}}</SPAN></TD>
+    </TR>
+    {% endfor %}
+</table>
+
+
+
+
+<div class="row"><br /><br /></div>
+{% endblock %}
