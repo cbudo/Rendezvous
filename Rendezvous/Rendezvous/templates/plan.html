@@ -1,19 +1,19 @@
 ﻿{% extends "layout.html" %}
 
 {% block content %}
+<script src="http://jonthornton.github.io/jquery-timepicker/jquery.timepicker.js"></script>
+<link rel="stylesheet" type="text/css" href="http://jonthornton.github.io/jquery-timepicker/jquery.timepicker.css">
 
-meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>jQuery UI Datepicker - Default functionality</title>
-<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-<link rel="stylesheet" href="/resources/demos/style.css">
-<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script>
-  $( function() {
-      $("#datepicker").datepicker();
-      $("#datepicker2").datepicker();
-  } );
+    $(function () {
+        $("#datepicker").datepicker();
+        $("#datepicker2").datepicker();
+    });
+
+    $(function () {
+        $('#timepicker').timepicker();
+        $('#timepicker2').timepicker();
+    });
 </script>
 
 
@@ -30,19 +30,59 @@ meta charset="utf-8">
 </div>
 
 
-    <div class="row">
-        .    <div class='col-xs-3 buffer2 text-center'>
-                <label for="datepicker" class="h2">Start date</label>
-                 <p><input type="text" id="datepicker"></p>
-            </div>
-
-
+<div class="row">
         <div class='col-xs-3 buffer2 text-center'>
-            <label for="datepicker2" class="h2">End date</label>
-                    <p><input type="text" id="datepicker2"></p>
-                </div>
-          </div>
-      
- 
+        <label for="datepicker" class="h2">Start date</label>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+                <input type="text" id="datepicker" class="form-control">
+            </div>
+    </div>
+
+
+    <div class='col-xs-3 buffer2 text-center'>
+        <label for="datepicker2" class="h2">End date</label>
+        <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+            <input type="text" id="datepicker2" class="form-control">
+        </div>
+    </div>
+</div>
+
+<div class="col-xs-3 buffer2 text-center">
+    <h2 class="buttonLink">Desired time range:</h2>
+</div>
+<div class="row">
+    <div class='col-xs-3 buffer3 text-center'>
+        <label for="timepicker" class="h2">Start time</label>
+        <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+            <input type="text" id="timepicker" class="form-control">
+        </div>
+    </div>
+
+
+    <div class='col-xs-3 buffer3 text-center'>
+        <label for="timepicker2" class="h2">End time</label>
+        <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+            <input type="text" id="timepicker2" class="form-control">
+        </div>
+    </div>
+</div>
+<div class="col-xs-3 buffer2 text-center">
+    <h2 class="buttonLink">Desired length of time slot:</h2>
+</div>
+<div class="col-xs-1"></div>
+<div class='col-xs-3 buffer3 text-center'>
+    <div class="input-group text-center">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-time"></i></span>
+        <input type="text" class="form-control">
+    </div>
+</div>
+<div class="col-xs-1 text-center buffer4">
+    <p class="h2">minutes</p>
+</div>
+
 
 {% endblock %}

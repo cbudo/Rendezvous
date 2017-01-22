@@ -3,6 +3,7 @@
     padding-bottom: 20px;
     background: url("https://s-media-cache-ak0.pinimg.com/originals/b9/5d/27/b95d27686ad0b325094a3279086c6ae3.jpg");
 	overflow-x: hidden; 
+    overflow-y: auto;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -73,7 +74,11 @@ input[type="checkbox"].input-validation-error {
 }
 
 .buffer3 {
-    margin-top: 45px;
+    margin-top: 90px;
+}
+
+.buffer4 {
+    margin-top: 100px;
 }
 
 h1 {
