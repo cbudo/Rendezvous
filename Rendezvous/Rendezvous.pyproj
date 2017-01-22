@@ -49,6 +49,7 @@
     <Content Include="Rendezvous\static\content\img\IMG_0767.jpg" />
     <Content Include="Rendezvous\static\content\img\IMG_0768.jpg" />
     <Content Include="Rendezvous\templates\plan.html" />
+    <Content Include="Rendezvous\templates\sendSchedule.html" />
     <Content Include="requirements.txt" />
     <Content Include="Rendezvous\static\content\bootstrap.css" />
     <Content Include="Rendezvous\static\content\bootstrap.min.css" />
