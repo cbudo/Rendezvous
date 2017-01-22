@@ -2,15 +2,14 @@
 
 {% block content %}
 
-
-<table>
-    {% for item in items %}
+{% for day in objects|iteritems()}
+<table class="table table-striped">
+    {% for item in items|sort(attribute='start') %}
     <TR>
-        <TD class="c1"><{{item.start}}></TD>
-        <TD class="c2">{{item.duration}}</TD>
-        <TD class="c3">{{item.open}}</TD>
-        <TD class="c4"><SPAN>{{item.email}}</SPAN></TD>
-        <TD class="c5"><SPAN>{{item.day}}</SPAN></TD>
+        {if item.open}
+            <TD class="c1"><{{item.start}}></TD>
+            <TD class="c2">{{item.start+item.duration}}</TD>
+            <TD class="c3">{{item.day}}</TD>
     </TR>
     {% endfor %}
 </table>
